@@ -1,0 +1,30 @@
+# Deep Learning - Práctica Final: Predicción de Engagement en POIs Turísticos
+# Requirements para reproducir el proyecto
+
+# PyTorch y Visión Computacional
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Procesamiento de Imágenes
+Pillow==10.1.0
+
+# Visualización
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Análisis de PDFs (opcional)
+pdfplumber==0.10.3
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.26.0
+ipywidgets==8.1.1
+
+# Utilidades
+tqdm==4.66.1
